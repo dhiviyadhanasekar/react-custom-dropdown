@@ -1,0 +1,15 @@
+.listItem {
+  list-style: none;
+  width: 100%;
+  padding: 2px 4px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.listItem:hover {
+  background: lightgrey;
+}
+
+.listItem:active {
+  border: none;
+}

@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+}
+
+.label {
+  margin-right: 8px;
+}
+
+.container {
+  min-width: 100px;
+  min-height: 20px;
+  border: 1px solid lightgray;
+  padding: 4px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.arrow {
+  float: right;
+}
+
+.list {
+  border: 1px solid lightgray;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4px 0px 4px 0px;
+}
